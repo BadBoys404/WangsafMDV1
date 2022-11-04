@@ -32,6 +32,7 @@
 * [`ariffb25`](https://github.com/ariffb25)
 * [`ZeeoneOfc`](https://github.com/zeeone-ofc)
 * [`Alya`](https://github.com/AliyaBot)
+* [`Naze`](https://github.com/nazedev) 
 
 ## Social
 * Facebook [Here](https://www.facebook.com/alfachri.kurniawan.37)
